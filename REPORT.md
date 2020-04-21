@@ -2,7 +2,7 @@
 
 ## Learning Algorithm
 
-The agent used in this project is based upon a Deep Q-Network with random replay memory and fixed q-targets using an Adam Learning Rate Optimization. 
+The agent used in this project is based upon a [Deep Q-Network](https://en.wikipedia.org/wiki/Q-learning#Variants) with random replay memory and fixed q-targets using an [Adam](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) Learning Rate Optimization. 
 (See [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf) for reference.)
 
   1.  Replay Memory/Buffer used to record agent experience so as to be able to randomly sample for additional training, which tends to be especially useful in rarely occuring states.
