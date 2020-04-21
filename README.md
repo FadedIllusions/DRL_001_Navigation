@@ -1,6 +1,6 @@
 # DRL_001_Navigation
 
-[banana world](/images/banana_world.gif)
+![banana world](/images/banana_world.gif)
 
 ### Introduction
 
@@ -16,7 +16,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
-[scores](/images/scores.png)
+![scores](/images/scores.png)
 
 ### Getting Started
 
