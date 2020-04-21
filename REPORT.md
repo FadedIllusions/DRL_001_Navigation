@@ -9,7 +9,6 @@ The agent used in this project is based upon a [Deep Q-Network](https://en.wikip
 
   2.  Fixed Q-Targerts are used since updating based only on a guess can lead to harmful correlations.
 
-***   ***   ***   ***   ***   ***   ***   ***   ***   
 
 ## Hyperparameters
 ```python
@@ -34,14 +33,10 @@ Input => FC => FC => FC => Ouput
 
 The Deep Q-Network is rather straight-foward, containing only two hidden layers and [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) (Rectified Linear Unit) activation function.
 
-***   ***   ***   ***   ***   ***   ***   ***   ***
-
 
 ## Plot Of Rewards
 
 ![Rewards](/images/scores.png)
-
-***   ***   ***   ***   ***   ***   ***   ***   ***
 
 
 ## Ideas for Future Work
