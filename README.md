@@ -1,6 +1,6 @@
 # DRL_001_Navigation
 
-![banana world](/images/banana_world.gif)
+<img align="center" src="/images/banana_world.gif" alt="Banana World">
 
 ### Introduction
 
