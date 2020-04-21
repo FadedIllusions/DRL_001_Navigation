@@ -37,7 +37,7 @@ The Deep Q-Network is rather straight-foward, containing only two hidden layers 
 
 ## Plot Of Rewards
 
-[Rewards](/images/scores.png)
+![Rewards](/images/scores.png)
 
 ***   ***   ***   ***   ***   ***   ***   ***   ***
 
