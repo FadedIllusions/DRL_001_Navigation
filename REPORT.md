@@ -14,18 +14,29 @@ The agent used in this project is based upon a Deep Q-Network with random replay
 ## Hyperparameters
 
 BUFFER_SIZE = int(1e5)  # Replay Buffer Size
+
 BATCH_SIZE = 64         # Minibatch Size
+
 GAMMA = 0.99            # Discount Factor
+
 TAU = 1e-3              # Soft Update Of Target Parameters
+
 LR = 5e-4               # Learning Rate
+
 UPDATE_EVERY = 4        # How Oft' To Update Network
 
+
 eps_start = 1.0         # Epsilon Start Value
+
 eps_end = 0.1           # Epsilon End Value
+
 eps_decay = 0.995       # Rate At Which To Decay Epsilon
 
+
 n_episodes = 2000       # Max Number Of Episodes
+
 max_t = 1000            # Max Time Step
+
 
 ## Model Architecture
 
@@ -35,11 +46,13 @@ The Deep Q-Network is rather straight-foward, containing only two hidden layers 
 
 ***   ***   ***   ***   ***   ***   ***   ***   ***
 
+
 ## Plot Of Rewards
 
 ![Rewards](/images/scores.png)
 
 ***   ***   ***   ***   ***   ***   ***   ***   ***
+
 
 ## Ideas for Future Work
 
