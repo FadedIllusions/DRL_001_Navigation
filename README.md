@@ -1,6 +1,7 @@
 # DRL_001_Navigation
-
-<img align="center" src="/images/banana_world.gif" alt="Banana World">
+<p align="center">
+    <img src="/images/banana_world.gif" alt="Banana World">
+</p>
 
 ### Introduction
 
